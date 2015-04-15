@@ -279,14 +279,67 @@
   </item>
 
   <item>
-    <title>Gareth Emery Podcast 267</title>
+    <title>Gareth Emery Podcast 272</title>
+    <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_272.mp3" type="audio/x-m4a" />
+    <description>#TGEP272</description>
+    <link>http://galexmusic.com/podcast/garethemerypodcast_272.mp3</link>
+    <guid>http://galexmusic.com/podcast/garethemerypodcast_272.mp3</guid>
+    <pubDate>10 Feb 2014 20:00:00 +0000</pubDate>
+    <itunes:duration>60:00</itunes:duration>
+  </item>
+
+  <item>
+    <title>Gareth Emery Podcast 271</title>
+    <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_271.mp3" type="audio/x-m4a" />
+    <description>#TGEP271</description>
+    <link>http://galexmusic.com/podcast/garethemerypodcast_271.mp3</link>
+    <guid>http://galexmusic.com/podcast/garethemerypodcast_271.mp3</guid>
+    <pubDate>3 Feb 2014 20:00:00 +0000</pubDate>
+    <itunes:duration>60:00</itunes:duration>
+  </item>
+
+  <item>
+    <title>Gareth Emery Podcast 270</title>
+    <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_270.mp3" type="audio/x-m4a" />
+    <description>#TGEP270</description>
+    <link>http://galexmusic.com/podcast/garethemerypodcast_270.mp3</link>
+    <guid>http://galexmusic.com/podcast/garethemerypodcast_270.mp3</guid>
+    <pubDate>27 Jan 2014 20:00:00 +0000</pubDate>
+    <itunes:duration>60:00</itunes:duration>
+  </item>
+
+  <item>
+    <title>Gareth Emery Podcast 269</title>
+    <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_269.mp3" type="audio/x-m4a" />
+    <description>#TEGEP269</description>
+    <link>http://galexmusic.com/podcast/garethemerypodcast_269.mp3</link>
+    <guid>http://galexmusic.com/podcast/garethemerypodcast_269.mp3</guid>
+    <pubDate>20 Jan 2014 20:00:00 +0000</pubDate>
+    <itunes:duration>60:00</itunes:duration>
+  </item>
+
+  <item>
+    <title>Gareth Emery Podcast 268</title>
     <itunes:author>Gareth Emery</itunes:author>
-    <itunes:subtitle>#TGEP001</itunes:subtitle>
-    <itunes:summary>#TGEP001</itunes:summary>
+    <itunes:subtitle>#TGEP268</itunes:subtitle>
+    <itunes:summary>#TGEP268</itunes:summary>
     <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_268.mp3" type="audio/x-m4a" />
     <description>#TEGEP001</description>
     <link>http://galexmusic.com/podcast/garethemerypodcast_268.mp3</link>
     <guid>http://galexmusic.com/podcast/garethemerypodcast_268.mp3</guid>
+    <pubDate>13 Jan 2014 20:00:00 +0000</pubDate>
+    <itunes:duration>60:00</itunes:duration>
+  </item>
+
+  <item>
+    <title>Gareth Emery Podcast 267</title>
+    <itunes:author>Gareth Emery</itunes:author>
+    <itunes:subtitle>#TGEP267</itunes:subtitle>
+    <itunes:summary>#TGEP267</itunes:summary>
+    <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_267.mp3" type="audio/x-m4a" />
+    <description>#TEGEP001</description>
+    <link>http://galexmusic.com/podcast/garethemerypodcast_267.mp3</link>
+    <guid>http://galexmusic.com/podcast/garethemerypodcast_267.mp3</guid>
     <pubDate>13 Jan 2014 20:00:00 +0000</pubDate>
     <itunes:duration>60:00</itunes:duration>
   </item>
