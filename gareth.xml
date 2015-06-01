@@ -277,6 +277,27 @@
     <pubDate>Wed, 26 Nov 2014 20:00:00 +0000</pubDate>
     <itunes:duration>60:00</itunes:duration>
   </item>
+ 
+  <item>
+    <title>Gareth Emery Podcast 276</title>
+    <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_276.mp3" type="audio/x-m4a" />
+    <description>#TGEP272</description>
+    <link>http://galexmusic.com/podcast/garethemerypodcast_276.mp3</link>
+    <guid>http://galexmusic.com/podcast/garethemerypodcast_276.mp3</guid>
+    <pubDate>3 Mar 2014 20:00:00 +0000</pubDate>
+    <itunes:duration>60:00</itunes:duration>
+  </item>
+
+ 
+  <item>
+    <title>Gareth Emery Podcast 275</title>
+    <enclosure url="http://galexmusic.com/podcast/garethemerypodcast_275.mp3" type="audio/x-m4a" />
+    <description>#TGEP272</description>
+    <link>http://galexmusic.com/podcast/garethemerypodcast_275.mp3</link>
+    <guid>http://galexmusic.com/podcast/garethemerypodcast_275.mp3</guid>
+    <pubDate>3 Mar 2014 20:00:00 +0000</pubDate>
+    <itunes:duration>60:00</itunes:duration>
+  </item>
 
    <item>
     <title>Gareth Emery Podcast 274</title>
